@@ -12,7 +12,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          Hi, I'm Rutvik Jasani
+          Hi, I'm Divya Parvani
         </motion.h1>
 
         <motion.p
@@ -36,9 +36,8 @@ const Hero = () => {
           <span className="text-white font-bold">
             <Typewriter
               words={[
-                "Software Tester with strong manual testing expertise.",
-                "Confident in automation scripting and growing in test automation.",
-                "Passionate about improving quality through test automation."
+              "Desi Desi Desi",
+              "bhathu",
               ]}
               loop={true}
               cursor

@@ -2,9 +2,10 @@
   "name": "fullstack-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://rutvik37.github.io/My_portfolio",
+  "homepage": "https://divyaparvani10.github.io/My_portfolio",
   "dependencies": {
     "autoprefixer": "^10.4.19",
+    "build": "^0.1.4",
     "core-js-pure": "^3.44.0",
     "framer-motion": "^12.23.0",
     "postcss": "^8.4.38",

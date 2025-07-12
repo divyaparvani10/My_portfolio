@@ -6,15 +6,15 @@ const Contact = () => (
     <div className="space-y-3 text-lg">
       <p>
         <strong>Email:</strong>{" "}
-        <a className="text-teal-600 hover:underline" href="mailto:rutvikjasani2706@gmail.com">
-          rutvikjasani2706@gmail.com
+        <a className="text-teal-600 hover:underline" href="mailto:divyaparvani10@gmail.com">
+          divyaparvani10@gmail.com
         </a>
       </p>
 
       <p>
         <strong>Phone:</strong>{" "}
-        <a className="text-teal-600 hover:underline" href="tel:+918200124611">
-          +91-8200124611
+        <a className="text-teal-600 hover:underline" href="tel:+918200794335">
+          +91-8200794335
         </a>
       </p>
 
@@ -22,11 +22,11 @@ const Contact = () => (
         <strong>LinkedIn:</strong>{" "}
         <a
           className="text-teal-600 hover:underline"
-          href="https://www.linkedin.com/in/rutvik-jasani-602224242"
+          href="https://www.linkedin.com/in/divyaparvani-602224242"
           target="_blank"
           rel="noreferrer"
         >
-          linkedin.com/in/rutvik-jasani-602224242
+          linkedin.com/in/divyaparvani10-602224242
         </a>
       </p>
 
@@ -34,11 +34,11 @@ const Contact = () => (
         <strong>GitHub:</strong>{" "}
         <a
           className="text-teal-600 hover:underline"
-          href="https://github.com/rutvik37"
+          href="https://github.com/divyaparvani10"
           target="_blank"
           rel="noreferrer"
         >
-          github.com/rutvik37
+          github.com/divyaparvani10
         </a>
       </p>
     </div>
